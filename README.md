@@ -1,4 +1,4 @@
-# 🌐 Tanishq's Developer Portfolio
+# 🌐 Moinaktar Shaikh Portfolio
 
 Welcome to my interactive **personal portfolio website** — a creative showcase of my journey as a developer. It features immersive animations, AI-powered project showcases, and a modern design inspired by cutting-edge UI principles.
 
